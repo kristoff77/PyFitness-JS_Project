@@ -1,0 +1,5 @@
+login	123456	Lista_treningów\Trening_Plecy	Lista_treningów\Trening_Brzuch	Lista_treningów\Trening_ogólny_2	Lista_treningów\Trening_Nogi
+abba	111111
+jarek	trening	Lista_treningów\Trening_Nogi
+maja	222222	Lista_treningów\Trening_ogólny_1
+krzysztof	projekt
